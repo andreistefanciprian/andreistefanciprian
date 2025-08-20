@@ -3,10 +3,6 @@
 🚀 DevOps/SRE/Platform Engineer with 5+ years of experience automating software delivery and scaling cloud infrastructure.  
 I hold Kubernetes certifications (CKAD, CKA, CKS) and bring expertise in Python and Golang.
 
-I’m a seasoned DevOps and Site Reliability professional with over 5 years of experience in automating software delivery and building scalable, reliable cloud infrastructure. 
-
-I hold multiple Kubernetes certifications (CKAD, CKA, CKS) and bring expertise in Python and Golang. 
-
 My technical toolkit includes:
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
