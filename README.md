@@ -32,9 +32,3 @@ Always curious and growth driven, I continue to explore new technologies and pra
 
 ###### Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/andreistefanciprian/)
-
-###### Fun fact about me
-I run a hiking community in Adelaide. When I’m not in the cloud, I’m usually out in the red dirt trails of South Australia. 
-
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/adelaideadventureseekers)
-
