@@ -24,7 +24,6 @@ My technical toolkit includes:
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat)
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat)
 
-I’ve designed and implemented robust CI/CD pipelines using GitLab, GitHub Actions, GCP/AWS CodeBuild, and Jenkins, supporting everything from small scale projects to enterprise grade deployments.
 
 Always curious and growth driven, I continue to explore new technologies and practices that push the boundaries of automation, scalability, and reliability.
 
