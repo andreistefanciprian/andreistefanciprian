@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cip — Platform Engineer (Go • K8s • GitOps)
 
-Platform Engineer (SRE-minded) with 5+ years automating software delivery and scaling cloud platforms. Kubernetes CKAD • CKA • CKS. I ship in Go (Golang) and Python.
+Platform Engineer (SRE-minded) with 5+ years automating software delivery and scaling cloud platforms. Kubernetes CKAD, CKA, CKS certified. I write in Go and Python.
 
 
 My technical toolkit includes:
