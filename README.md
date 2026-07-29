@@ -1,6 +1,9 @@
-# 👋 Hi, I'm Cip — Platform Engineer (Go • K8s • GitOps)
+# 👋 Hi, I'm Chip — Platform Engineer (Go • K8s • GitOps)
 
-Platform Engineer (SRE-minded) with 5+ years automating software delivery and scaling cloud platforms. Kubernetes CKAD, CKA, CKS certified. I write in Go and Python.
+
+Platform Engineer with 5+ years building and operating Kubernetes platforms, automating software delivery and developing infrastructure tooling in Go and Python. Kubernetes certified (CKA, CKAD, CKS).
+
+Before moving into cloud-native engineering, I spent almost a decade working in networking, carrier-grade telecoms and protocol engineering, testing and analysing technologies ranging from TCP/IP, IPv4/IPv6 and IPsec to LTE EPC, optical transport and CDN platforms. That foundation still shapes how I approach distributed systems today. I enjoy understanding systems from the packet level all the way up to the Kubernetes control plane.
 
 
 My technical toolkit includes:
@@ -25,7 +28,7 @@ My technical toolkit includes:
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat)
 
 
-Always curious and growth driven, I continue to explore new technologies and practices that push the boundaries of automation, scalability, and reliability.
+Always curious and driven by learning, I'm currently exploring AI infrastructure, MCP servers, OAuth 2.1, AI agents and vector search while continuing to build tools that make cloud platforms simpler, more secure and more reliable.
 
 ---
 
